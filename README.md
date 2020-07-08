@@ -1,3 +1,3 @@
 # 1010music-bitbox-tools
 
-Bitbash: bash script for batch converting samples 
+Bitbash: bash script for batch converting samples to 48k/24bit and optionally normalize them. Will crawl through subfolders...
